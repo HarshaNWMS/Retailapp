@@ -92,7 +92,7 @@
             android:linksClickable="true"
             android:layout_gravity="center"
             android:gravity="center"
-            tools:text="12345678"
+            tools:text="123456789"
             android:textSize="20sp" />
         <View android:layout_height="1.5dp"
             android:layout_width="match_parent"
