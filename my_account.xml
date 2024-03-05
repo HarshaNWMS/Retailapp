@@ -92,7 +92,7 @@
             android:linksClickable="true"
             android:layout_gravity="center"
             android:gravity="center"
-            tools:text="7753839036"
+            tools:text="12345678"
             android:textSize="20sp" />
         <View android:layout_height="1.5dp"
             android:layout_width="match_parent"
@@ -129,7 +129,7 @@
                 android:linksClickable="true"
                 android:layout_gravity="center"
                 android:gravity="center"
-                tools:text="utkarsh22garg@gmail.com"
+                tools:text="xyz@gmail.com"
                 android:textSize="20sp" />
             <View android:layout_height="1.5dp"
                 android:layout_width="match_parent"
