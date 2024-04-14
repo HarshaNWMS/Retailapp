@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55731857750",
+    "project_id": "retailapp-cbb30",
+    "storage_bucket": "retailapp-cbb30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55731857750:android:17f298e063bbf093344ef7",
+        "android_client_info": {
+          "package_name": "com.example.merchantmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnZzeAmLxKbVo7C8Ru_FJa3qgo8Dxp7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
